@@ -1,4 +1,4 @@
-# Predicting Material Costs for Opening a Liqour Store in Des Moines Iowa
+# Predicting Material Costs for Opening a Liquor Store in Des Moines Iowa
 ![image](https://user-images.githubusercontent.com/71361520/154779839-5d6c9c34-a99c-479f-8aee-3e12c1aed5b7.png)
 
 ## Context
