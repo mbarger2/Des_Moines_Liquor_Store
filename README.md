@@ -1,4 +1,5 @@
 # Predicting Material Costs for Opening a Liqour Store in Des Moines Iowa
+![image](https://user-images.githubusercontent.com/71361520/154779839-5d6c9c34-a99c-479f-8aee-3e12c1aed5b7.png)
 
 ## Context
 The Iowa Department of Commerce logs every liquor sale sold by stores with class "E" liquor licenses (used for selling alcohol in bottled form for off-the-premises consumption), which is in turn published as open data by the State of Iowa. This data, which exceeds github's upload limit for file size, can be found at the following link: https://www.kaggle.com/residentmario/iowa-liquor-sales.  The data covers from the beginning of 2012 through October of 2017, with over 12 million sales of unique items made.  This means that every unique item sold is logged independently of any items it was sold with, along with many details including (but not limited to) the store number, item number, item quantity, item cost for the store to purchase, amount the item was sold for, and when it was sold. 
