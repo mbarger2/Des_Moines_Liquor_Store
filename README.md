@@ -21,3 +21,7 @@ The extremely poor results from the machine learning models indicate that the pr
 
 ## If There Was a Next Time
 Given another go at this data, I would ask a different question since my first one did not yield effect results. Examples of useful questions include "How does local population affect sales" or "when are the slowest months for liquor sales in Iowa", as I believe the data could reveal information that would not be intuitive. In reflecting on how time could have been lshortened in efficiently handling the data, the cleaning process could have been greatly shortened by cutting columns and unnecessary data for my specific goals earlier in the process. The use of dictionaries, functions, and maps were highly effective and would be immediately used again as well.
+
+
+
+A presentation on this topic can be found at: https://slides.com/mbarger2/deck-3f99e9/edit
